@@ -1,7 +1,7 @@
-baseURL = 'https://filipecarneiro.github.io/'
+baseURL = 'https://myronkharkover.github.io/hugo-mock-landing-page/'
 title = "Smart Job Application Assistant"
-author = "Your Name"
-copyright = "© 2025 Job Application Letter Assistant. All rights reserved."
+author = "Myron Kharkover"
+copyright = "Myron Kharkover"
 
 timeZone = 'Europe/London'
 
