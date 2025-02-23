@@ -15,3 +15,7 @@ Seamlessly integrate your existing resume into the platform. No need to repeated
 Review and fine-tune auto-generated cover letters with an intuitive interface. Maintain full control over your application materials while benefiting from AI assistance.
 ### Enhanced Data Security
 Your personal and professional information is protected with robust encryption and privacy controls. We prioritize the security of your sensitive data.
+
+## Workflow
+
+Created a workflow that triggers every time there is a push to main that deploys on an ubuntu runner. Checks to make sure that the right submodules are present and hugo version is used before deploying via github pages. 
